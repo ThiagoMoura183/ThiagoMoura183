@@ -45,9 +45,9 @@ Um pouco mais sobre mim...
 # 📫 Me encontre em
 
 <div align="center" style="display: inline_block">
-<a href="mailto:thiago.dsmoura2@gmail.com" target ="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a href="https://www.linkedin.com/in/thiago-moura-28b572169/" target ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="mailto:thiago.moura2000@hotmail.com" target ="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+<a href="mailto:thiago.dsmoura2@gmail.com" target ="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
 # 🔭 Veja meus repositórios  <img src="https://i.gifer.com/origin/ab/ab17f96aec139d9fb81c663d2e2cd2d0.gif" width="40" height="40">
