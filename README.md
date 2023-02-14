@@ -4,7 +4,7 @@ Meu nome é Thiago da Silva Moura, seja muito bem vindo(a) ao meu GitHub!
 
 Um pouco mais sobre mim...
 - 📚 Graduado em Ciência da Computação no Centro Universitário Sagrado Coração (UNISAGRADO) - Bauru
-- 💻 Gerente de projetos de SAP Business One na <a href="https://www.linkedin.com/company/manymindsbr/mycompany/">ManyMinds
+- 💻 Desenvolvedor SDK SAP Business One na <a href="https://www.linkedin.com/company/manymindsbr/mycompany/">ManyMinds
 - ⚡ Entusiasta de empreendedorismo, tecnologia e programação
 
 # 💻 Tecnologias
