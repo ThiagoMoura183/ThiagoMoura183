@@ -10,16 +10,17 @@ Um pouco mais sobre mim...
 # 💻 Tecnologias
 <div align="center" style="display: inline_block">
 
-<img alt="Thi-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">          
+<img alt="Thi-POSTMAN" height="50" width="50" src="https://skillicons.dev/icons?i=postman">  
+<img alt="Thi-HTML" height="50" width="50" src="https://skillicons.dev/icons?i=html">          
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
 
-<img alt="Thi-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">        
+<img alt="Thi-CSS" height="50" width="50" src="https://skillicons.dev/icons?i=css">        
 <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> -->
 
-<img alt="Thi-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">        
+<img alt="Thi-PHP" height="50" width="50" src="https://skillicons.dev/icons?i=php">        
 <!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> -->
 
-<img alt="Thi-MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img alt="Thi-MYSQL" height="50" width="50" src="https://skillicons.dev/icons?i=mysql">
 
 <img alt="Thi-SAP" height="30" width="70" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
     
@@ -28,12 +29,13 @@ Um pouco mais sobre mim...
 # ⌛ In Progress (Estudando)
 <div align="center" style="display: inline_block">
 
-<img alt="Thi-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">        
+<img alt="Thi-PHP" height="50" width="50" src="https://skillicons.dev/icons?i=php">        
 <!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> -->
           
 <!-- <img alt="Thi-CodeIgn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"> -->
           
-<img alt="Thi-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">     
+<img alt="Thi-JS" height="50" width="50" src="https://skillicons.dev/icons?i=js"> 
+<img alt="Thi-CS" height="50" width="50" src="https://skillicons.dev/icons?i=cs">    
 <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  -->
 
 </div>
