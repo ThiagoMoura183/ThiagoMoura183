@@ -1,6 +1,6 @@
 # Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">
 
-Meu nome é Thiago da Silva Moura, seja muito bem vindo(a) ao meu GitHub!
+Meu nome é Thiago Moura, seja muito bem vindo(a) ao meu GitHub!
 
 Um pouco mais sobre mim...
 - 📚 Graduado em Ciência da Computação no Centro Universitário Sagrado Coração (UNISAGRADO) - Bauru
